@@ -1,0 +1,190 @@
+@media (max-width: 1200px) {}
+
+/*  */
+
+@media (max-width: 992px) {
+    .main__container-content {
+        padding-bottom: 50px;
+    }
+
+    .burger__title {
+        font-size: 50px;
+    }
+
+    .burger-text__title {
+        font-size: 25px;
+    }
+
+    .burger__text {
+        font-size: 15px;
+    }
+
+    .burger-price {
+        width: 200px;
+        height: 80px;
+    }
+
+    .burger__btn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .info__block {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/*  */
+
+@media (max-width: 768px) {
+    .header__btn {
+        width: 160px;
+        height: 45px;
+    }
+
+    .btn__link {
+        font-size: 25px;
+    }
+
+    .headere-bottom__item {
+        padding: 20px 10px;
+    }
+
+    .bottom__link {
+        font-size: 15px;
+    }
+
+    .burger__title {
+        font-size: 45px;
+    }
+
+    .burger-text__title {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .burger__text {
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+
+    .burger-price {
+        width: 160px;
+        height: 60px;
+        font-size: 40px;
+    }
+
+    .burger__btn {
+        width: 165px;
+        height: 40px;
+    }
+
+}
+
+/*  */
+
+@media (max-width: 576px) {
+    .header__nav-top {
+        flex-direction: column;
+    }
+
+    .header__logo {
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .logo__text {
+        font-size: 14px;
+    }
+
+    .header-top__list {
+        padding-right: 20px;
+        padding-bottom: 10px;
+    }
+
+    .header__link {
+        font-size: 12px;
+    }
+
+    .header-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header__btn {
+        width: 180px;
+        margin-bottom: 0;
+    }
+
+    .btn__link {
+        font-size: 30px;
+    }
+
+    .headere-bottom__item {
+        padding: 8px 8px;
+    }
+
+    .bottom__link {
+        font-size: 11px;
+    }
+
+    .main__container-content {
+        padding-bottom: 60px;
+    }
+
+    .burger__title {
+        font-size: 18px;
+    }
+
+    .burger-text__title {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .burger__text {
+        font-size: 8px;
+        line-height: 12px;
+        margin-bottom: 5px;
+    }
+
+    .burger-price {
+        width: 130px;
+        height: 25px;
+        font-size: 20px;
+    }
+
+    .burger__btn {
+        width: 120px;
+        height: 25px;
+        font-size: 16px;
+    }
+
+    .burger-btn__link {
+        font-size: 14px;
+    }
+
+    .info__block {
+        grid-template-columns: 1fr;
+    }
+
+    .main__item {
+        margin-right: 28px;
+    }
+
+    .main__link {
+        font-size: 12px;
+    }
+
+    .branch__title {
+        font-size: 30px;
+    }
+
+    .footer__block {
+        flex-direction: column;
+    }
+}
+
+/*  */
+
+@media (max-width: 320px) {}
